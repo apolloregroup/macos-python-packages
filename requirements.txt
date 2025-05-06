@@ -1,0 +1,7 @@
+# Core Python packages used across managed Macs
+requests
+bs4
+python-dotenv
+packaging
+getmac
+getpass
